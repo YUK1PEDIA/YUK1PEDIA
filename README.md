@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YUK1PEDIA](https://github.com/YUK1PEDIA)
 
-- 📝 I regularly write articles on [yuk1pedia.github.io](yuk1pedia.github.io)
+- 📝 I regularly write articles on https://yuk1pedia.github.io/
 
 - 📫 How to reach me： **QQ：904255490**
 
