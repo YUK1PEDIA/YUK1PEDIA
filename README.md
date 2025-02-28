@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YUKIPEDIA</h1>
 <h3 align="center">Or u can call me YUK1PEDIA</h3>
-<h3 align="center">I'm A student studying SE in XMU</h3>
+<h3 align="center">I'm a student studying SE in XMU</h3>
 
 ### About me？
 
