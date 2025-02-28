@@ -23,5 +23,9 @@
 
 If you want to play with me, please look at the picture below~
 
-<img src="https://s2.loli.net/2025/02/28/cLwKRUtVmYjJANg.png" width="450"><img src="https://s2.loli.net/2025/02/28/EFjz8KJR6TsCw3Q.jpg" width="350">   
+<img src="https://s2.loli.net/2025/02/28/cLwKRUtVmYjJANg.png" width="500" style="margin-right: 20px; display: inline-block;">
+
+<img src="https://s2.loli.net/2025/02/28/EFjz8KJR6TsCw3Q.jpg" width="500" style="display: inline-block;">
+
+
 
