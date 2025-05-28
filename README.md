@@ -21,9 +21,9 @@
 - 🪄 Project Sekai: Colorful Stage feat. Hatsune Miku
 - 🕹️ Play maimai DX with my dear friends
 
-If you want to play with me, please look at the picture below~
+if interested, you are welcome to play with me ↓
 
-<img src="https://s2.loli.net/2025/04/24/SGzxrapwhTlUsNi.jpg" width="400" style="display: inline-block; margin-right: 20px;"> <img src="https://s2.loli.net/2025/04/24/BRSaLoqYt8vbeZc.jpg" width="430" style="display: inline-block;">
+<img src="https://s2.loli.net/2025/05/28/CNR2ysDuFJch6df.jpg" width="400" style="display: inline-block; margin-right: 20px;"> <img src="https://s2.loli.net/2025/05/28/U1jTtJGOS27efnP.jpg" width="430" style="display: inline-block;">
 
 
 
