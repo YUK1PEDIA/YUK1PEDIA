@@ -4,13 +4,13 @@
 
 ### About me？
 
-- 🌱 I‘m currently studying Software Engineering
+- 🌱 I'm currently interning at Tencent
 
 - 👨‍💻 All of my projects are available at [https://github.com/YUK1PEDIA](https://github.com/YUK1PEDIA)
 
-- 📝 I regularly write articles on https://yuk1pedia.github.io/
+- 📝 My blog: https://yuk1pedia.github.io/
 
-- 📫 How to reach me： **QQ：904255490**
+- 📫 How to reach me: **QQ：904255490**
 
 
 
