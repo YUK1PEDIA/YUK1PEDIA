@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YUK1PEDIA](https://github.com/YUK1PEDIA)
 
-- 📝 My blog: yukipedia.cn
+- 📝 My blog: [yukipedia.cn](https://yukipedia.cn/)
 
 - 📫 How to reach me: **QQ：904255490**
 
