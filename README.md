@@ -1,33 +1,10 @@
-<h1 align="center">Hi 👋, I'm YUKIPEDIA</h1>
-<h3 align="center">Or u can call me YUK1PEDIA</h3>
-<h3 align="center">I'm a student studying SE in XMU</h3>
+### Hi there 👋
 
-### About me？
+I'm YUKIPEDIA, a software developer from China.
 
-- 🌱 I'm currently interning at Tencent
+- With expertise in Java, Golang and Python, also coding in C++
+- Passionate about photography and love capturing some aesthetically pleasing photographs
+- Blog: https://yuk1pedia.github.io/
+- QQ: 904255490, hit me up ~
 
-- 👨‍💻 All of my projects are available at [https://github.com/YUK1PEDIA](https://github.com/YUK1PEDIA)
-
-- 📝 My blog: https://yuk1pedia.github.io/
-
-- 📫 How to reach me: **QQ：904255490**
-
-
-
-### What do I like?
-
-- ⌨️ Coding
-- 📷 Capture some aesthetically pleasing photographs
-- 🪄 Project Sekai: Colorful Stage feat. Hatsune Miku
-- 🕹️ Play maimai DX with my dear friends
-
-if interested, you are welcome to play with me ↓
-
-<img src="https://s2.loli.net/2025/05/28/CNR2ysDuFJch6df.jpg" width="400" style="display: inline-block; margin-right: 20px;"> <img src="https://s2.loli.net/2025/05/28/U1jTtJGOS27efnP.jpg" width="430" style="display: inline-block;">
-
-
-
-
-
-
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuk1pedia&theme=github)
