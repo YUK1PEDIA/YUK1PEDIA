@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm YUKIPEDIA, a software developer from China.
+I'm YUKIPEDIA, a full-stack developer.
 
-- With expertise in Java, Golang and Python, also coding in C++
+- With expertise in Golang, Python and C++
 - Passionate about photography and love capturing some aesthetically pleasing photographs
 - Blog: https://yukipedia.cn
 - QQ: 904255490, hit me up ~
